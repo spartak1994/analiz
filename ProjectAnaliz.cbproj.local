@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.234,C:\Documents and Settings\NoPassword\Мои документы\RAD Studio\Projects\Project3PCH1.h=I:\Вега\KMB-2-12\Pasha\Анализ\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,=C:\Documents and Settings\NoPassword\Мои документы\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,I:\Вега\KMB-2-12\Pasha\Анализ\Project3PCH1.h=I:\Вега\KMB-2-12\Pasha\Анализ\ProjectAnalizPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.343,=C:\Documents and Settings\NoPassword\Мои документы\RAD Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Documents and Settings\NoPassword\Мои документы\RAD Studio\Projects\Unit1.dfm=I:\Вега\KMB-2-12\Pasha\Анализ\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Documents and Settings\NoPassword\Мои документы\RAD Studio\Projects\Unit1.h=I:\Вега\KMB-2-12\Pasha\Анализ\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Documents and Settings\NoPassword\Мои документы\RAD Studio\Projects\Unit1.cpp=I:\Вега\KMB-2-12\Pasha\Анализ\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.718,C:\Documents and Settings\NoPassword\Мои документы\RAD Studio\Projects\Project3.cbproj=I:\Вега\KMB-2-12\Pasha\Анализ\ProjectAnaliz.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
